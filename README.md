@@ -2,7 +2,7 @@
 
 Welcome to the Advanced Data Structures & Algorithms repository! 🚀
 
-This repository is a collection of some of the most efficient and widely used data structures and algorithms tailored for competitive programming. From Binary Lifting to Segment Trees, each section offers carefully implemented solutions and explanations to help you ace your next coding challenge.
+This repository is a collection of some of the most efficient and widely used data structures and algorithms tailored for competitive programming. From Binary Lifting to Segment Trees, each section offers carefully implemented solutions and explanations to help you ace your next coding challenge. Its goal is simplicity and it was created in order to help beginners understand more advanced data structures. Sites like Usaco often provide complicated and not commented code. Therefore, anyone contributing should keep that in mind. 
 
 # 📚 What's Inside:
 
@@ -39,6 +39,6 @@ This repository is a collection of some of the most efficient and widely used da
 
 # Contribute 💻
 
-Feel free to open issues, suggest features, or contribute directly to improve the repository!
+Feel free to open issues, suggest features, or contribute directly to improve the repository! For more info on the codes' format, check the files already pushed.
 
 == If you have any questions feel free to reach out to me through github or discord: sergio.sak ==
