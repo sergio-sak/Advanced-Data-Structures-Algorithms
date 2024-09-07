@@ -15,7 +15,7 @@ This repository is a collection of some of the most efficient and widely used da
   - [ ] HLD
   - [ ] SCC
   - [ ] String algo's (Z, KMP, Manacher's
-  - [ ] Unity Find
+  - [ ] Union Find
 
 # 🎯 Ideal For:
 
